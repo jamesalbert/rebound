@@ -1,0 +1,8 @@
+{
+  ".py": "python3",
+  ".js": "node",
+  ".go": "go run",
+  ".rb": "ruby",
+  ".java": "javac",
+  ".class": "java"
+}

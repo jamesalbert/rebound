@@ -31,6 +31,7 @@ setup(
     ],
     keywords="stackoverflow stack overflow debug debugging error-handling compile errors error message cli",
     include_package_data=True,
+    package_data={'rebound': ['config']},
     packages=["rebound"],
     #data_files=["demo.gif"],
     entry_points={"console_scripts": ["rebound = rebound.rebound:main"]},

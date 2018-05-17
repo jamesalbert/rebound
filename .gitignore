@@ -3,3 +3,5 @@ __pycache__/
 *.pyc
 *.egg
 venv
+build
+rebound_cli.egg-info
